@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1490522999 source:c:\users\hieu\desktop\ltnc\movingwheel\movingwheel\main.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_utils.h"
+	<vector>
+	<cmath>
+
+1490521546 source:c:\users\hieu\desktop\ltnc\movingwheel\movingwheel\sdl_utils.cpp
+	"SDL_utils.h"
+
+1490522855 c:\users\hieu\desktop\ltnc\movingwheel\movingwheel\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1646267940 source:c:\users\admin\desktop\testsdl2\movingwheel\movingwheel\main.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_utils.h"
+	<vector>
+	<cmath>
+
+1646267940 c:\users\admin\desktop\testsdl2\movingwheel\movingwheel\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1646267940 source:c:\users\admin\desktop\testsdl2\movingwheel\movingwheel\sdl_utils.cpp
+	"SDL_utils.h"
+
